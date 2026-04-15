@@ -1,0 +1,25 @@
+purchases,country,Genre_name,genre_id,RowNo
+1,Argentina,Rock,1,1
+18,Australia,Rock,1,1
+6,Austria,Rock,1,1
+5,Belgium,Rock,1,1
+26,Brazil,Rock,1,1
+57,Canada,Rock,1,1
+7,Chile,Rock,1,1
+14,"Czech Republic",Rock,1,1
+6,Denmark,Rock,1,1
+6,Finland,Rock,1,1
+26,France,Rock,1,1
+28,Germany,Rock,1,1
+4,Hungary,Rock,1,1
+13,India,Rock,1,1
+2,Ireland,Rock,1,1
+3,Italy,Rock,1,1
+6,Netherlands,Rock,1,1
+2,Norway,Metal,3,1
+14,Poland,Rock,1,1
+23,Portugal,Rock,1,1
+4,Spain,Metal,3,1
+5,Sweden,Rock,1,1
+47,"United Kingdom",Rock,1,1
+70,USA,Rock,1,1

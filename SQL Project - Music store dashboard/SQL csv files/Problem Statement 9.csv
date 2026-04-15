@@ -1,0 +1,25 @@
+customer_id,first_name,last_name,billing_country,total_spending,RowNo
+5,FrantiÅ¡ek,WichterlovÃ¡,"Czech Republic",144.54000000000002,1
+46,Hugh,O'Reilly,Ireland,114.83999999999997,1
+58,Manoj,Pareek,India,111.86999999999999,1
+1,LuÃ­s,GonÃ§alves,Brazil,108.89999999999998,1
+34,JoÃ£o,Fernandes,Portugal,102.96000000000001,1
+3,FranÃ§ois,Tremblay,Canada,99.99,1
+42,Wyatt,Girard,France,99.99,1
+50,Enrique,MuÃ±oz,Spain,98.01,1
+53,Phil,Hughes,"United Kingdom",98.01,1
+17,Jack,Smith,USA,98.01,1
+57,Luis,Rojas,Chile,97.02000000000001,1
+37,Fynn,Zimmermann,Germany,94.05000000000001,1
+55,Mark,Taylor,Australia,81.18,1
+44,Terhi,HÃ¤mÃ¤lÃ¤inen,Finland,79.2,1
+45,Ladislav,KovÃ¡cs,Hungary,78.21,1
+49,StanisÅ‚aw,WÃ³jcik,Poland,76.22999999999999,1
+51,Joakim,Johansson,Sweden,75.24,1
+4,BjÃ¸rn,Hansen,Norway,72.27000000000001,1
+7,Astrid,Gruber,Austria,69.3,1
+48,Johannes,"Van der Berg",Netherlands,65.34,1
+8,Daan,Peeters,Belgium,60.38999999999999,1
+47,Lucas,Mancini,Italy,50.49,1
+56,Diego,GutiÃ©rrez,Argentina,39.6,1
+9,Kara,Nielsen,Denmark,37.61999999999999,1
